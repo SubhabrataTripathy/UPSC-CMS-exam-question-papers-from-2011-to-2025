@@ -36,3 +36,35 @@ To help aspirants practice effectively, this repository follows the official UPS
 │   ├── 📄 CMS_Paper_I_2025.pdf
 │   └── 📄 CMS_Paper_II_2025.pdf
 └── 📄 README.md
+
+
+💡 How to Use This Repository for Preparation
+
+    Clone or Download
+
+    bash
+    git clone https://github.com/SubhabrataTripathy/UPSC-CMS-exam-question-papers-from-2011-to-2025.git
+
+    Alternatively, click the green Code button and select Download ZIP to get all 15 years of papers at once.
+    Practice Smart
+        Open any year folder and load Paper_I & Paper_II.
+        Simulate exact exam conditions: 2 hours (120 minutes) per paper, 120 MCQs, 250 marks.
+        Practice answering 120 MCQs to build the speed required (1 minute per question).
+    Analyze & Revise
+        Track high-yield topics in General Medicine and PSM, which carry significant weightage.
+        Compare older papers (2011-2018) with recent ones (2019-2025) to understand UPSC's shift towards more clinical, vignette-based questions.
+
+🤝 Contributing
+This repository is built for the medical fraternity. If you have:
+
+    Better quality scans of older papers (2011-2015)
+    Official UPSC answer keys
+    Missing years or corrected PDFs
+
+Please feel free to open an Issue
+ or submit a Pull Request!
+⚠️ Disclaimer
+This repository is an independent educational initiative and is NOT affiliated with, endorsed by, or connected to the Union Public Service Commission (UPSC) or the Government of India. The question papers are sourced from the public domain and official UPSC archives for the sole purpose of academic preparation and self-assessment for MBBS graduates.
+🌟 Support the Project
+If this repository helps in your preparation for the Central Medical Services, please consider giving it a Star ⭐ and sharing it with your fellow MBBS batchmates and CMS aspirants!
+Best of luck with your preparation and future medical career! 🩺🇮🇳
